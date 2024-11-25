@@ -4,26 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47fc6f31-4ce2-4fe3-86ad-f283e8daf794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="47fc6f31-4ce2-4fe3-86ad-f283e8daf794" name="Changes" comment="Module_18">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/games.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/platform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/class_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/func_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/games.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/platform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2otSgPWDGeIzb7hDbRQ11qSz48U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,10 +44,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.urls.executor": "Run",
+    "Python.views.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/zanan/SSS/Python/Urban/HomeWork/Module_18/Django_Homework/pythonProject/UrbanDjango/templates/fourth_task"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zanan\SSS\Python\Urban\HomeWork\Module_18\Django_Homework\pythonProject\UrbanDjango\templates\fourth_task" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731687491097</updated>
     </task>
+    <task id="LOCAL-00001" summary="Module_18">
+      <option name="closed" value="true" />
+      <created>1731688385214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731688385214</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Module_18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_18" />
   </component>
 </project>
